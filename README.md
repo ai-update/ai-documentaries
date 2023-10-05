@@ -14,4 +14,4 @@ Curated by:
 
 *AI: Does artificial intelligence threaten our human identity?*
 
-> https://www.youtube.com/watch?v=VCCgdRF0AIA
+> 🌐 https://www.youtube.com/watch?v=VCCgdRF0AIA
