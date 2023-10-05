@@ -2,6 +2,7 @@
 A collection of documentaries on artificial intelligence technology.
 
 Curated by:
+
 🌐 https://casvanvliet.substack.com
 
 # Documentaries:
