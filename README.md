@@ -1,9 +1,7 @@
-# 📺 Artificial Intelligence Documentaries
-A collection of documentaries on artificial intelligence technology.
+# Artificial Intelligence Documentaries
+A collection of **documentaries** on **A.I.**
 
-Curated by:
-
-🌐 https://casvanvliet.substack.com
+Curated by [**Cas van Vliet**](https://casvanvliet.substack.com)
 
 # 📺 Documentaries:
 ## DW Documentary
