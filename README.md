@@ -2,7 +2,9 @@
 
 ![image](https://github.com/cas-van-vliet/ai-documentaries/assets/146363448/6ca932d3-7172-4d24-b4f3-035f5aae535f)
 
-ℹ️ A collection of **documentaries** on **A.I.**
+ℹ️ A collection of **documentaries** on **A.I.** 
+
+_Click on the links to view the documentaries directly on YouTube!_
 
 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
