@@ -8,10 +8,13 @@
 
 ## Table of Contents
 
+- **English Documentaries:** 
 - **[📺 DW Documentary](#dw-documentary)**
 - **[📺 Frontline PBS](#frontline-pbs)**
+- **Dutch Documentaries:**
+- **[VPRO](#vpro)**
 
-## Documentaries
+## English Documentaries
 
 ### DW Documentary:
  
@@ -26,3 +29,9 @@
 ### FRONTLINE PBS:
 
 📺 _['In the Age of A.I.'](https://www.youtube.com/watch?v=5dZ_lvDgevk&pp=ygUOYWkgZG9jdW1lbnRhcnk%3D)_
+
+## Dutch Documentaries 
+
+### VPRO:
+
+📺 _['De Prijs van AI'](https://www.youtube.com/watch?v=IRZQjfrIRV8&list=PL7ItOalv4zHayf8O5YPJ3I-Ct-u4HL0zY0)_
