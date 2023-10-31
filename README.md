@@ -11,6 +11,7 @@
 - **English Documentaries:** 
 - 📺 **[DW Documentary](#dw-documentary)**
 - 📺 **[Frontline PBS](#frontline-pbs)**
+- 📺 **[Google Deepmind](#google-deepmind)**
 - **Dutch Documentaries:**
 - 📺 **[VPRO Tegenlicht](#vpro-tegenlicht)**
 
@@ -29,6 +30,10 @@
 ### FRONTLINE PBS:
 
 📺 _['In the Age of A.I.'](https://www.youtube.com/watch?v=5dZ_lvDgevk&pp=ygUOYWkgZG9jdW1lbnRhcnk%3D)_
+
+### Google Deepmind
+
+📺 _['AlphaGo - The Movie'](https://www.youtube.com/watch?v=WXuK6gekU1Y)_
 
 ## Dutch Documentaries 
 
