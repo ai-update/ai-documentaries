@@ -47,7 +47,7 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 ## Dutch Documentaries
 
-_[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB) with **Dutch Documentaries** on AI._
+▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB) with **Dutch Documentaries** on AI._
 
 ### [VPRO Tegenlicht](https://www.youtube.com/@tegenlicht)
 
