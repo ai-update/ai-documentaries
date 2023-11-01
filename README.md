@@ -19,7 +19,7 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 ## English Documentaries
 
-_[Visit my YouTube Channel](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq6C3thO3UtC2NqHnIe6AClx&pp=gAQBiAQB) for a playlist with English Documentaries._
+_[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq6C3thO3UtC2NqHnIe6AClx&pp=gAQBiAQB) with English Documentaries._
 
 ### [DW Documentary](https://www.youtube.com/@DWDocumentary):
 
