@@ -46,3 +46,5 @@ _Click on the links to view the documentaries directly on YouTube!_
 📺 _['Door AI kunnen we binnenkort met dieren praten'](https://www.youtube.com/watch?v=LKsp9qXYVqs)_
 
 📺 _['Bloed, zweet en metalen: de gevolgen van AI op mens en aarde'](https://www.youtube.com/watch?v=Qx6JYBTEfXo&pp=ygUPdnBybyBjb3N0IG9mIGFp)_
+
+![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
