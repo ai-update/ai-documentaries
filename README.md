@@ -1,6 +1,6 @@
 # Artificial Intelligence Documentaries
 
-![image](https://github.com/cas-van-vliet/ai-documentaries/assets/146363448/6ca932d3-7172-4d24-b4f3-035f5aae535f)
+![image](https://github.com/cas-van-vliet/cas-van-vliet/assets/146363448/12512d42-e0e2-452a-9d4b-ce683b1cc906)
 
 ℹ️ A collection of **documentaries** on **A.I.** 
 
