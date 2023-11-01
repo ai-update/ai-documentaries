@@ -17,7 +17,7 @@ _Click on the links to view the documentaries directly on YouTube!_
 - **Dutch Documentaries:**
 - 📺 **[VPRO Tegenlicht](#vpro-tegenlicht)**
 - **Arabic Documentaries:**
-- 📺 **[DW Documentary](https://www.youtube.com/@dwdocarabia)** وثائقية دي دبليو
+- 📺 **[DW Documentary](#https://github.com/cas-van-vliet/ai-documentaries/blob/main/README.md#%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9) وثائقية دي دبليو**   
 
 ## English Documentaries
 
