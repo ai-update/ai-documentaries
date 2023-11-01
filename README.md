@@ -19,11 +19,11 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 ## English Documentaries
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq6C3thO3UtC2NqHnIe6AClx&pp=gAQBiAQB) with **English Documentaries** on AI._
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq6C3thO3UtC2NqHnIe6AClx&pp=gAQBiAQB)** with **English Documentaries** on AI._
 
 ### [DW Documentary](https://www.youtube.com/@DWDocumentary)
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=gIqCCx3hRL8&list=PL6_lAa0Kukq4TbF_wQZcmOPdpEertAtiy&pp=gAQBiAQB) with **DW Documentary** video's on AI:_
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=gIqCCx3hRL8&list=PL6_lAa0Kukq4TbF_wQZcmOPdpEertAtiy&pp=gAQBiAQB)** with **DW Documentary** video's on AI:_
 
 📺 _['Will humans love A.I. robots?'](https://www.youtube.com/watch?v=gIqCCx3hRL8&pp=ygUad2lsbCBodW1hbnMgbG92ZSBhaSByb2JvdHM%3D)_
  
@@ -35,23 +35,23 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 ### [FRONTLINE PBS](https://www.youtube.com/@frontline)
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq72ytog-t445gl7sNjsvDAB&pp=gAQBiAQB) with **FRONTLINE PBS** video's on AI:_
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq72ytog-t445gl7sNjsvDAB&pp=gAQBiAQB)** with **FRONTLINE PBS** video's on AI:_
 
 📺 _['In the Age of A.I.'](https://www.youtube.com/watch?v=5dZ_lvDgevk&pp=ygUOYWkgZG9jdW1lbnRhcnk%3D)_
 
 ### [Google Deepmind](https://www.youtube.com/@Google_DeepMind)
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=WXuK6gekU1Y&list=PL6_lAa0Kukq5ldKuImKQMItJb1iffEEfU&pp=gAQBiAQB) with **Google DeepMind** video's on AI:_
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=WXuK6gekU1Y&list=PL6_lAa0Kukq5ldKuImKQMItJb1iffEEfU&pp=gAQBiAQB)** with **Google DeepMind** video's on AI:_
 
 📺 _['AlphaGo - The Movie'](https://www.youtube.com/watch?v=WXuK6gekU1Y)_
 
 ## Dutch Documentaries
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB) with **Dutch Documentaries** on AI._
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB)** with **Dutch Documentaries** on AI._
 
 ### [VPRO Tegenlicht](https://www.youtube.com/@tegenlicht)
 
-▶️ _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq51OpECm_a11swcQEaWvzMt&pp=gAQBiAQB) with **VPRO Tegenlicht** video's on AI:_
+▶️ _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq51OpECm_a11swcQEaWvzMt&pp=gAQBiAQB)** with **VPRO Tegenlicht** video's on AI:_
 
 📺 _['De Prijs van AI'](https://www.youtube.com/watch?v=IRZQjfrIRV8&list=PL7ItOalv4zHayf8O5YPJ3I-Ct-u4HL0zY0)_
 
