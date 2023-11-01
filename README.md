@@ -16,6 +16,8 @@ _Click on the links to view the documentaries directly on YouTube!_
 - 📺 **[Google Deepmind](#google-deepmind)**
 - **Dutch Documentaries:**
 - 📺 **[VPRO Tegenlicht](#vpro-tegenlicht)**
+- **Arabic Documentaries:**
+- 📺 **[DW Documentary](https://www.youtube.com/@dwdocarabia)** وثائقية دي دبليو
 
 ## English Documentaries
 
