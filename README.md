@@ -4,6 +4,8 @@
 
 ℹ️ A collection of **documentaries** on **A.I.** 
 
+Languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇳🇱 🇸🇦 
+
 _Click on the links to view the documentaries directly on YouTube!_
 
 👀 Curated by [**Cas van Vliet**](https://casvanvliet.substack.com).
