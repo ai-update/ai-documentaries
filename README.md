@@ -49,7 +49,7 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 ## Dutch Documentaries
 
-🇳🇱_**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB)** with **Dutch Documentaries** on AI._
+🇳🇱 _**[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=Qx6JYBTEfXo&list=PL6_lAa0Kukq4c8GWgj2-Oi9xlHf_Rb-UE&pp=gAQBiAQB)** with **Dutch Documentaries** on AI._
 
 ### [VPRO Tegenlicht](https://www.youtube.com/@tegenlicht)
 
@@ -61,13 +61,15 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 📺 _['Bloed, zweet en metalen: de gevolgen van AI op mens en aarde'](https://www.youtube.com/watch?v=Qx6JYBTEfXo&pp=ygUPdnBybyBjb3N0IG9mIGFp)_
 
+
+
 ## افلام وثائقية عربية
 
-⏯️ _**[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=rSqEWF5Xib8&list=PL6_lAa0Kukq71xSeWsa0CmGIW9M21N8Hr&pp=gAQBiAQB)** مع مقاطع فيديو **فلام وثائقية عربية** على الذكاء الاصطناعي._
+_**[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=rSqEWF5Xib8&list=PL6_lAa0Kukq71xSeWsa0CmGIW9M21N8Hr&pp=gAQBiAQB)** مع مقاطع فيديو **فلام وثائقية عربية** على الذكاء الاصطناعي._
 
 ### [وثائقية دي دبليو](https://www.youtube.com/dwdocarabia)
 
-◀️ _**[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=jJvnIxWWJK4&list=PL6_lAa0Kukq6DNX8wyXbihlFKTI2tou4D&pp=gAQBiAQB)** مع مقاطع فيديو **وثائقية دي دبليو** على الذكاء الاصطناعي._
+_**[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=jJvnIxWWJK4&list=PL6_lAa0Kukq6DNX8wyXbihlFKTI2tou4D&pp=gAQBiAQB)** مع مقاطع فيديو **وثائقية دي دبليو** على الذكاء الاصطناعي._
 
 📺 _['وثائقي | الذكاء الاصطناعي والهوية البشرية | وثائقية دي دبليو'](https://www.youtube.com/watch?v=jJvnIxWWJK4)_
 
