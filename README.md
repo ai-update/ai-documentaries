@@ -13,7 +13,7 @@ _Click on the links to view the documentaries directly on YouTube!_
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English Documentaries:** 
 - 📺 **[DW Documentary](#dw-documentary)**
 - 📺 **[Frontline PBS](#frontline-pbs)**
-- 📺 **[Google Deepmind](#google-deepmind)**
+- 📺 **[GoogleDeepmind](#google-deepmind)**
 - 🇳🇱 **Dutch Documentaries:**
 - 📺 **[VPRO Tegenlicht](#vpro-tegenlicht)**
 - 🇸🇦 **Arabic Documentaries:**
