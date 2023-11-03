@@ -76,4 +76,5 @@ _Click on the links to view the documentaries directly on YouTube!_
 📺 _['وثائقي | الذكاء الاصطناعي والهوية البشرية | وثائقية دي دبليو'](https://www.youtube.com/watch?v=jJvnIxWWJK4)_
 
 📺 _['ما هي قدرات الذكاء الاصطناعي؟'](https://www.youtube.com/watch?v=_Wdr6xfVExk)_
+
 ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
