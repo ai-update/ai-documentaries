@@ -35,13 +35,13 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 - DW Documentary | _['AI: Does artificial intelligence threaten our human identity?'](https://www.youtube.com/watch?v=VCCgdRF0AIA)_
 
-📺 _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=gIqCCx3hRL8&list=PL6_lAa0Kukq4TbF_wQZcmOPdpEertAtiy&pp=gAQBiAQB) with DW Documentary video's on AI._
+📺 _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=gIqCCx3hRL8&list=PL6_lAa0Kukq4TbF_wQZcmOPdpEertAtiy&pp=gAQBiAQB) with **DW Documentary** video's on AI._
 
 ### [FRONTLINE PBS](https://www.youtube.com/@frontline)
 
 - FRONTLINE PBS | _['In the Age of A.I.'](https://www.youtube.com/watch?v=5dZ_lvDgevk&pp=ygUOYWkgZG9jdW1lbnRhcnk%3D)_
 
-📺 _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq72ytog-t445gl7sNjsvDAB&pp=gAQBiAQB) with FRONTLINE PBS video's on AI._
+📺 _[Click here for my YouTube Playlist](https://www.youtube.com/watch?v=5dZ_lvDgevk&list=PL6_lAa0Kukq72ytog-t445gl7sNjsvDAB&pp=gAQBiAQB) with **FRONTLINE PBS** video's on AI._
 
 ### [Google Deepmind](https://www.youtube.com/@Google_DeepMind)
 
