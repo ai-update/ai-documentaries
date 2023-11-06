@@ -65,9 +65,9 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 
 
-## افلام وثائقية عربية
+## فلام وثائقية عربية
 
-#### _**[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=rSqEWF5Xib8&list=PL6_lAa0Kukq71xSeWsa0CmGIW9M21N8Hr&pp=gAQBiAQB)** مع مقاطع فيديو **فلام وثائقية عربية** على الذكاء الاصطناعي._
+_[نقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=rSqEWF5Xib8&list=PL6_lAa0Kukq71xSeWsa0CmGIW9M21N8Hr&pp=gAQBiAQB) مع مقاطع فيديو **فلام وثائقية عربية** على الذكاء الاصطناعي._
 
 ### [وثائقية دي دبليو](https://www.youtube.com/dwdocarabia)
 
@@ -75,6 +75,6 @@ _Click on the links to view the documentaries directly on YouTube!_
 
 - وثائقية دي دبليو | _['ما هي قدرات الذكاء الاصطناعي؟'](https://www.youtube.com/watch?v=_Wdr6xfVExk)_
 
-📺 _[انقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=jJvnIxWWJK4&list=PL6_lAa0Kukq6DNX8wyXbihlFKTI2tou4D&pp=gAQBiAQB) مع مقاطع فيديو **وثائقية دي دبليو** على الذكاء الاصطناعي._
+📺 _[نقر هنا للحصول على قائمة التشغيل على YouTube](https://www.youtube.com/watch?v=jJvnIxWWJK4&list=PL6_lAa0Kukq6DNX8wyXbihlFKTI2tou4D&pp=gAQBiAQB) مع مقاطع فيديو **وثائقية دي دبليو** على الذكاء الاصطناعي._
 
 ![image](https://github.com/cas-van-vliet/chatgpt-prompts/assets/146363448/19f7dc8e-23c1-4160-b6d8-304ab0aaaa5f)
